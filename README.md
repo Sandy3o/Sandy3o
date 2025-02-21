@@ -1,15 +1,5 @@
 # 👋 Hey, I'm Sandy!
 
-![Header GIF](https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif)
-
-Welcome to my GitHub! I'm a **Front-end Dev**. 🚀
-
----
-
-## 🎯 **About Me**
-- 🔭 I’m currently working on **Donquix2.**
-- 🌱 I’m learning **React.Js and Tailwind Css**
-
 - 📫 Reach me at **E-mail : sandy3zero@gmail.com**
 
 ---

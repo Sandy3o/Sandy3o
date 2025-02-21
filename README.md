@@ -2,16 +2,15 @@
 
 ![Header GIF](https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif)
 
-Welcome to my GitHub! I'm a **[Your Role]** passionate about **[Your Interests]**. 🚀
+Welcome to my GitHub! I'm a **Front-end Dev**. 🚀
 
 ---
 
 ## 🎯 **About Me**
 - 🔭 I’m currently working on **Donquix2.**
 - 🌱 I’m learning **React.Js and Tailwind Css**
-- 💬 Ask me about **[Topics You Know Well]**
-- 📫 Reach me at **[Your Email or Socials]**
-- ⚡ Fun fact: **[Something Interesting About You]**
+
+- 📫 Reach me at **E-mail : sandy3zero@gmail.com**
 
 ---
 

@@ -7,7 +7,7 @@
 ## 🔥 **GitHub Streak & Stats**
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Sandy3o&theme=dark&hide_border=true)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sandy3o&show_icons=true&theme=dark)
-![Used Languages](https://github-readme-stats.vercel.app/api/used-langs/?username=Sandy3o&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sandy3o&layout=compact&langs_count=4&theme=radical)
 
 ---
 
